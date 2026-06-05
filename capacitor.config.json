@@ -1,0 +1,25 @@
+{
+  "appId": "com.zennonogram.app",
+  "appName": "Zen Nonogram",
+  "webDir": "web",
+  "android": {
+    "backgroundColor": "#ccccaa",
+    "allowMixedContent": false,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  },
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": true,
+      "backgroundColor": "#ccccaa",
+      "androidSplashResourceName": "splash",
+      "showSpinner": false,
+      "launchShowDuration": 800
+    },
+    "StatusBar": {
+      "style": "DARK",
+      "backgroundColor": "#2a3528",
+      "overlaysWebView": false
+    }
+  }
+}

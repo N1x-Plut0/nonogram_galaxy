@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Zen Nonogram</string>
+    <string name="title_activity_main">Zen Nonogram</string>
+    <string name="package_name">com.zennonogram.app</string>
+    <string name="custom_url_scheme">com.zennonogram.app</string>
+</resources>
