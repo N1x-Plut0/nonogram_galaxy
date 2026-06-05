@@ -1,7 +1,7 @@
 {
   "appId": "com.zennonogram.app",
   "appName": "Zen Nonogram",
-  "webDir": "web",
+  "webDir": "docs",
   "android": {
     "backgroundColor": "#ccccaa",
     "allowMixedContent": false,
